@@ -54,6 +54,7 @@ dependencies {
     implementation 'org.tensorflow:tensorflow-lite-support:0.1.0'
     implementation 'org.tensorflow:tensorflow-lite-task-vision:0.1.0'
     implementation 'org.tensorflow:tensorflow-lite-task-text:0.1.0'
+    implementation 'org.tensorflow:tensorflow-lite'
     //noinspection GradleDependency
     implementation 'org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT'
     implementation 'com.google.guava:guava:30.0-android'
